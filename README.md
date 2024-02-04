@@ -4,6 +4,7 @@ Hello! My name is Andrew, and I am a beginner Java backend developer. Here I wil
 
 ## My projects
 - [Service-Center SpringMVC](https://github.com/cardinalnsk/SpringMVC-ServiceCenter): Mini CRM system for tracking clients and their devices in repair
+- [Hangman](https://github.com/cardinalnsk/Hangman-MVC): Game hangman with MVC pattern
 - Service Center RESTFull: In progress...
 
 ## My skills
